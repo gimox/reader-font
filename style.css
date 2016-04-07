@@ -1,0 +1,43 @@
+@font-face {
+  font-family: 'PlayBook';
+  src: url('fonts/PlayBook.eot');
+  src: url('fonts/PlayBook.woff2') format('woff2'),
+       url('fonts/PlayBook.woff') format('woff'),
+       url('fonts/PlayBook.ttf') format('truetype'),
+       url('fonts/PlayBook.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'PlayBook';
+  src: url('fonts/PlayBook-BoldItalic.eot');
+  src: url('fonts/PlayBook-BoldItalic.woff2') format('woff2'),
+       url('fonts/PlayBook-BoldItalic.woff') format('woff'),
+       url('fonts/PlayBook-BoldItalic.ttf') format('truetype'),
+       url('fonts/PlayBook-BoldItalic.eot?#iefix') format('embedded-opentype');
+  font-weight: bold;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'PlayBook';
+  src: url('fonts/PlayBook-Bold.eot');
+  src: url('fonts/PlayBook-Bold.woff2') format('woff2'),
+       url('fonts/PlayBook-Bold.woff') format('woff'),
+       url('fonts/PlayBook-Bold.ttf') format('truetype'),
+       url('fonts/PlayBook-Bold.eot?#iefix') format('embedded-opentype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'PlayBook-Italic';
+  src: url('fonts/PlayBook-Italic.eot');
+  src: url('fonts/PlayBook-Italic.woff2') format('woff2'),
+       url('fonts/PlayBook-Italic.woff') format('woff'),
+       url('fonts/PlayBook-Italic.ttf') format('truetype'),
+       url('fonts/PlayBook-Italic.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: italic;
+}
